@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8A2BE2&height=200&section=header&text=Asad%20Asghar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+# Hi there, I'm Asad Asghar 👋 <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/wave.gif" width="30px"/>
 
-<a href="https://github.com/Asadr9671">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Final-Year+CS+Student+%40+FAST-NUCES;AI+%2F+NLP+%2F+Deep+Learning+Enthusiast;Full-Stack+Developer+(React+%2B+Django+%2B+FastAPI);Building+intelligent%2C+secure+systems" alt="Typing SVG" />
-</a>
+### AI & Full-Stack Developer | Final-Year CS Student @ FAST-NUCES
 
-<br/>
+Building intelligent, secure systems at the intersection of **AI**, **NLP**, and **modern web development**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asad-asghar-3390d)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadr9671@gmail.com)
@@ -94,16 +92,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asadr9671&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Asad's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadr9671&layout=compact&theme=tokyonight&hide_border=true" width="41%" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=Asadr9671&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asadr9671&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+![Followers](https://img.shields.io/github/followers/Asadr9671?style=for-the-badge&color=0A66C2&labelColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=Asadr9671&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-> **Note:** these cards are generated live by third-party services (they refresh automatically). If a card shows as a broken image right after you first publish, give it a minute and refresh — it usually means the service is warming up or briefly rate-limited, not that the link is wrong.
+> **Why simple badges here:** the fancier animated stats/streak cards (github-readme-stats, streak-stats) live on `vercel.app` / `demolab.com`, which didn't load on your network — that's why they showed as broken icons even with a correct URL. The badges above are served from `img.shields.io`, which rendered fine for your other badges, so they should be reliable for you too.
+>
+> If you'd still like the fuller animated cards, they'll likely work fine for most *other* visitors to your profile (those domains are widely accessible) — see **Optional: Fancier Stats Cards** at the bottom if you want to add them back in.
 
 ---
 
@@ -114,8 +110,6 @@
 <img src="https://raw.githubusercontent.com/Asadr9671/Asadr9671/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake animation" />
 
 </div>
-
-> This animated snake "eats" your contribution graph and updates daily. It won't render until you add the small GitHub Action below (one-time setup, fully automatic after that) — see **Enabling the Snake Animation** at the bottom of this file.
 
 ---
 
@@ -130,8 +124,6 @@ I'm always open to collaborating on AI, NLP, and full-stack projects — feel fr
 
 *Thanks for stopping by — ⭐️ from [Asad Asghar](https://github.com/Asadr9671)*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Asadr9671&color=0A66C2&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
@@ -144,3 +136,17 @@ The snake graphic above is powered by a free GitHub Action (`Platane/snk`) — i
 2. Name it `.github/workflows/snake.yml` and paste in the contents of the `snake.yml` file provided alongside this README.
 3. Commit it. Under the repo's **Actions** tab, run the "Generate Snake" workflow once manually (or wait for its daily schedule).
 4. It will automatically create an `output` branch containing the SVG the README already links to — no further edits needed.
+
+---
+
+## 🎨 Optional: Fancier Stats Cards
+
+If you'd like the richer animated stats/streak cards back (they look great, and most visitors' networks load them fine — it was specifically your network that blocked `vercel.app`/`demolab.com`), paste this block under the **GitHub Stats** heading instead of the badges:
+
+```md
+<img src="https://github-readme-stats.vercel.app/api?username=Asadr9671&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Asad's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadr9671&layout=compact&theme=tokyonight&hide_border=true" width="41%" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=Asadr9671&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+```
+
+Test it by opening the README on your phone's data connection or asking a friend to check — if it renders for them, it's safe to keep even though it may not show on your current network.
