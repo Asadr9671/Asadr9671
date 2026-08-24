@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Asad Asghar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8A2BE2&height=200&section=header&text=Asad%20Asghar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-### AI & Full-Stack Developer | Final-Year CS Student @ FAST-NUCES
+<a href="https://github.com/Asadr9671">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Final-Year+CS+Student+%40+FAST-NUCES;AI+%2F+NLP+%2F+Deep+Learning+Enthusiast;Full-Stack+Developer+(React+%2B+Django+%2B+FastAPI);Building+intelligent%2C+secure+systems" alt="Typing SVG" />
+</a>
 
-Building intelligent, secure systems at the intersection of **AI**, **NLP**, and **modern web development**.
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asad-asghar-3390d)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadr9671@gmail.com)
@@ -92,12 +94,28 @@ Building intelligent, secure systems at the intersection of **AI**, **NLP**, and
 
 <div align="center">
 
-![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asadr9671&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadr9671&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Asadr9671&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Asad's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadr9671&layout=compact&theme=tokyonight&hide_border=true" width="41%" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asadr9671&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Asadr9671&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asadr9671&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 
 </div>
+
+> **Note:** these cards are generated live by third-party services (they refresh automatically). If a card shows as a broken image right after you first publish, give it a minute and refresh — it usually means the service is warming up or briefly rate-limited, not that the link is wrong.
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Asadr9671/Asadr9671/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake animation" />
+
+</div>
+
+> This animated snake "eats" your contribution graph and updates daily. It won't render until you add the small GitHub Action below (one-time setup, fully automatic after that) — see **Enabling the Snake Animation** at the bottom of this file.
 
 ---
 
@@ -112,4 +130,17 @@ I'm always open to collaborating on AI, NLP, and full-stack projects — feel fr
 
 *Thanks for stopping by — ⭐️ from [Asad Asghar](https://github.com/Asadr9671)*
 
+![Profile Views](https://komarev.com/ghpvc/?username=Asadr9671&color=0A66C2&style=flat-square&label=Profile+Views)
+
 </div>
+
+---
+
+## ⚙️ Enabling the Snake Animation
+
+The snake graphic above is powered by a free GitHub Action (`Platane/snk`) — it isn't a static image, so it needs a one-time setup in this repo:
+
+1. In the `Asadr9671/Asadr9671` repo, go to **Add file → Create new file**.
+2. Name it `.github/workflows/snake.yml` and paste in the contents of the `snake.yml` file provided alongside this README.
+3. Commit it. Under the repo's **Actions** tab, run the "Generate Snake" workflow once manually (or wait for its daily schedule).
+4. It will automatically create an `output` branch containing the SVG the README already links to — no further edits needed.
