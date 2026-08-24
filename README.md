@@ -2,7 +2,7 @@
 
 # Hi there, I'm Asad Asghar 👋 <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/wave.gif" width="30px"/>
 
-### AI & Full-Stack Developer | Final-Year CS Student @ FAST-NUCES
+### AI & Full-Stack Developer | DevOps Engineer | Final-Year CS Student @ FAST-NUCES
 
 Building intelligent, secure systems at the intersection of **AI**, **NLP**, and **modern web development**.
 
@@ -97,9 +97,6 @@ Building intelligent, secure systems at the intersection of **AI**, **NLP**, and
 
 </div>
 
-> **Why simple badges here:** the fancier animated stats/streak cards (github-readme-stats, streak-stats) live on `vercel.app` / `demolab.com`, which didn't load on your network — that's why they showed as broken icons even with a correct URL. The badges above are served from `img.shields.io`, which rendered fine for your other badges, so they should be reliable for you too.
->
-> If you'd still like the fuller animated cards, they'll likely work fine for most *other* visitors to your profile (those domains are widely accessible) — see **Optional: Fancier Stats Cards** at the bottom if you want to add them back in.
 
 ---
 
@@ -128,25 +125,3 @@ I'm always open to collaborating on AI, NLP, and full-stack projects — feel fr
 
 ---
 
-## ⚙️ Enabling the Snake Animation
-
-The snake graphic above is powered by a free GitHub Action (`Platane/snk`) — it isn't a static image, so it needs a one-time setup in this repo:
-
-1. In the `Asadr9671/Asadr9671` repo, go to **Add file → Create new file**.
-2. Name it `.github/workflows/snake.yml` and paste in the contents of the `snake.yml` file provided alongside this README.
-3. Commit it. Under the repo's **Actions** tab, run the "Generate Snake" workflow once manually (or wait for its daily schedule).
-4. It will automatically create an `output` branch containing the SVG the README already links to — no further edits needed.
-
----
-
-## 🎨 Optional: Fancier Stats Cards
-
-If you'd like the richer animated stats/streak cards back (they look great, and most visitors' networks load them fine — it was specifically your network that blocked `vercel.app`/`demolab.com`), paste this block under the **GitHub Stats** heading instead of the badges:
-
-```md
-<img src="https://github-readme-stats.vercel.app/api?username=Asadr9671&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Asad's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadr9671&layout=compact&theme=tokyonight&hide_border=true" width="41%" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com?user=Asadr9671&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
-```
-
-Test it by opening the README on your phone's data connection or asking a friend to check — if it renders for them, it's safe to keep even though it may not show on your current network.
